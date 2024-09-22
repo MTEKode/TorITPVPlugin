@@ -1,0 +1,15 @@
+{
+  "name": "toritpvplugin",
+  "version": "1.0.0",
+  "description": "Stremio plugin for IPTV(m3u list)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  }
+}
